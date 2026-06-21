@@ -41,6 +41,7 @@ Future Talent Score
 Future-Proof Score
 Salary at Risk
 AI Exposure Index
-Author
 
+
+Author
 Vaibhavi Jadhav
